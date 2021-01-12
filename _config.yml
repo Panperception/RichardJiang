@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Dr Richard Jiang"
   avatar           : "Richard_Jiang_web.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Senior Lecturer and Associate Professor, Lancaster University"
   location         : "Lancaster, UK"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=NuyoNc4AAAAJ&sortby=pubdate"
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Panperception"
+  github           : #"Panperception"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-1721-9474"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -241,7 +241,7 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed #http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
